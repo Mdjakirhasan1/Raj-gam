@@ -1,2 +1,0 @@
-# Raj-gam
-Raj Game
